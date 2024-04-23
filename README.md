@@ -1,2 +1,2 @@
 # algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준 허브 풀이를 자동으로 업로드 해주는 레포입니다. 레츠고우~
